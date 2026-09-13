@@ -32,9 +32,9 @@
 
 ### 🤖 AI Projects
 
-- **[Trendudz.com](https://trendudz.com)** — AI trend intelligence engine that crawls web and social media, ranks emerging topics, and auto-generates daily reports and images
-- **[CVJustify.com](https://cvjustify.com)** — AI-powered CV optimization platform that analyzes CVs against job requirements using LLM workflows
-- **AI Voice Agent** — Production voice agent for booking management using RAG and embeddings, integrated with backend APIs
+- **[Trendudz.com](https://trendudz.com)** — (Co-built) AI trend intelligence engine that crawls web and social media, ranks emerging topics, and auto-generates daily reports and images
+- **[CVJustify.com](https://cvjustify.com)** — (Co-built) AI-powered CV optimization platform that analyzes CVs against job requirements using LLM workflows
+- **AI Voice Agent** — (Co-built) Production voice agent for booking management using RAG and embeddings, integrated with backend APIs
 - **RAG Support Bot** — Technical support bot using Qdrant vector search, integrated into existing support workflows
 - **Automated Writing Assessment** — Pipeline processing 6,000+ submissions per run, integrated with LMS and LLM APIs
 
